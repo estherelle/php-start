@@ -1,2 +1,6 @@
 {
+    "require" : {
+    "facebook/graph-sdk" : "~5.0",
+    "ext-mbstring": "*"
+    }
 }
